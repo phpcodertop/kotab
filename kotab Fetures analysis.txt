@@ -1,0 +1,34 @@
+***************************************************************************************************
+*                                      kotab Fetures analysis                                     *
+*-------------------------------------------------------------------------------------------------*
+
+- Authentication:	
+	- Login / Registeration / Forget Password
+	- Social Media Login / Registeration
+	
+- Messanger Messages
+
+- Video Sessions
+
+- Payment System 
+	- Packages "Monthly / Yearly"
+	- Per Sheikh Payment 		
+	
+- Blog System
+
+- User / Sheikh Profiles
+
+- Calender Module
+
+- Currency adjustment per user currency
+
+- All Sheikhs Search "Free / Paid"
+
+- connect system
+
+- Points and rewards and Wall Of Honor
+
+- Tests
+
+- to be continued
+	
